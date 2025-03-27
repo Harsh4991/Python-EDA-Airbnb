@@ -1,4 +1,4 @@
-#### Airbnb Listings EDA Project: New York
+## Airbnb Listings EDA Project: New York
 
 ---
 
